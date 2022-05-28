@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/btv-hd.png" group-title="General", 01. BTV HD
-http://103.135.132.3:8800/hls/stream4.m3u8
+http://tvserver.aliflailabd.com:8989/btv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/atn-bangla.png" group-title="General", 02. ATN BANGLA
 http://tvserver.aliflailabd.com:8989/atn-bangla/index.m3u8
@@ -63,7 +63,7 @@ http://103.136.200.246:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/asian-tv.png" group-title="General", 21. ASIAN TV 
 http://tvserver.aliflailabd.com:8989/asiantv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sa-tv.png" group-title="General", 22. SATV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sa-tv.png" group-title="General", 22. SA TV
 http://tvserver.aliflailabd.com:8989/satv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/gaan-bangla.png" group-title="Music", 23. GAAN BANGLA
@@ -301,7 +301,7 @@ http://42.201.253.14:4090/play/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/national-geographic-hd.png" group-title="Infotainment", 94. NATIONAL GEOGRAPHIC HD
 http://103.55.144.46/hls/ngohd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/national-geographic-wild.png" group-title="Infotainment", 95. NAT GEO WILD HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/national-geographic-wild-hd.png" group-title="Infotainment", 95. NAT GEO WILD HD
 http://103.55.144.46/hls/wild.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/discovery-hd.png" group-title="Infotainment", 96. DISCOVERY HD
@@ -349,8 +349,8 @@ http://tvserver.aliflailabd.com:8989/dw/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/peace-tv.png" group-title="Religious", 109. PEACE TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/peace-tv.png" group-title="Religious", 109. PEACE TV HD
 http://89.38.99.153:8032/eu_english_adapt/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/madani-channel.png" group-title="Religious", 110. MADANI TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/madani-channel.png" group-title="Religious", 110. MADANI TV HD
 http://208.86.19.13:81/508.stream/index.m3u8
