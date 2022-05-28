@@ -221,7 +221,7 @@ http://103.55.144.46/hls/sonypixhd.m3u8
 http://103.55.144.46/hls/starmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-movies-select-hd.png" group-title="Movies", 70. STAR MOVIES SELECT HD
-http://103.132.16.98:8080/starmoviesselecthd/mpegts
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/axn-hd.png" group-title="Movies", 71. AXN
 http://201.108.227.250:8000/play/a06a/index.m3u8
@@ -241,7 +241,7 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sangeet-bangla.png" group-title="Music", 76. SANGEET BANGLA
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+http://103.159.4.38:9191/CH27-INBD6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zing.png" group-title="Music", 77. ZING
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
@@ -335,16 +335,16 @@ http://103.55.144.46/hls/pogo.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bbc-news.png" group-title="News", 105. BBC NEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bbc-news.png" group-title="News", 105. BBC NEWS
 http://103.55.144.46/hls/bbcworld.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/aljazeera.png" group-title="News", 106. AL JAZEERA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/aljazeera.png" group-title="News", 106. AL JAZEERA
 http://103.55.144.46/hls/aljazeera.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/cnn.png" group-title="News", 107. CNN
-http://ip2121.com:8081/live/cnn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/cnn.png" group-title="News", 107. CNN
+http://103.159.4.38:9191/CH46-ENG4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/dw.png" group-title="News", 108. DW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/dw.png" group-title="News", 108. DW
 http://tvserver.aliflailabd.com:8989/dw/index.m3u8
 
 
