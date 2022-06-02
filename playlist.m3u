@@ -55,7 +55,7 @@ https://piratesiptv.shortcm.li/channel9.m3u8
 http://103.60.172.106:8080/Channel24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/gtv-hd.png" group-title="General", 19. GAZI TV HD
-http://103.159.4.38:9191/CH1-SP1/tracks-v1a1/mono.m3u8
+http://dds.oncast.me:1934/dlive/gz.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ekattor-tv-hd.png" group-title="News", 20. EKATTOR TV HD
 http://103.60.172.106:8080/EkattorTV/tracks-v1a1/mono.m3u8
@@ -265,7 +265,7 @@ http://103.60.172.106:8080/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/9xm.png" group-title="Music", 83. 9XM
 http://103.159.4.38:9191/CH36-IN-HIN8/tracks-v1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/9xjalwa.png" group-title="Music", 84. 9X JALWA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/9x-jalwa.png" group-title="Music", 84. 9X JALWA
 http://103.60.172.106:8080/9XJalwa/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mastiii.png" group-title="Music", 85. MASTIII
