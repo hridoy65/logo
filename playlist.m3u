@@ -258,13 +258,13 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/celestial-movies.png" group-title="Movies", 81. CELESTIAL MOVIES
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mnx.png" group-title="Movies", 82. THRILL TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/thrill.png" group-title="Movies", 82. THRILL
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mnx.png" group-title="Movies", 83. KIX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/kix.png" group-title="Movies", 83. KIX
 http://210.210.155.37/dr9445/h/h07/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mnx.png" group-title="Movies", 84. HITS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/hits.png" group-title="Movies", 84. HITS
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 
 
