@@ -61,7 +61,7 @@ http://stream.accessnetbd.com/hls/sky3.m3u8
 http://stream.amrbd.com:8082/Ekattor-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/asian-tv.png" group-title="General", 21. ASIAN TV
-https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+https://bd.jagobd.com:444/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sa-tv.png" group-title="General", 22. SA TV
 http://stream.amrbd.com:8082/SATV/index.m3u8
@@ -146,39 +146,39 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-hd.png" group-title="Entertainment", 46. COLORS HD
 http://103.159.4.38:9191/CH35-IN-HIN7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-infinity-hd.png" group-title="Entertainment", 47. COLORS INFINITY HD
-http://103.153.39.36:8000/play/a01b/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/set-hd.png" group-title="Entertainment", 48. SONY ENTERTAINMENT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/set-hd.png" group-title="Entertainment", 47. SONY ENTERTAINMENT HD
 http://103.159.4.38:9191/CH31-IN-HIN3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-sab-hd.png" group-title="Entertainment", 49. SONY SAB HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-sab-hd.png" group-title="Entertainment", 48. SONY SAB HD
 http://stream.amrbd.com:8082/Sony_Sab/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/and-tv-hd.png" group-title="Entertainment", 50. &TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/and-tv-hd.png" group-title="Entertainment", 49. &TV HD
 http://208.86.19.13:81/703.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-hd.png" group-title="Entertainment", 51. UTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-hd.png" group-title="Entertainment", 50. UTV HD
 http://208.86.19.13:81/723.stream/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/hum-tv.png" group-title="Entertainment", 52. HUM TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/hum-tv.png" group-title="Entertainment", 51. HUM TV HD
 http://221.120.204.4/HUM-TV-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ary-digital.png" group-title="Entertainment", 53. ARY DIGITAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ary-digital.png" group-title="Entertainment", 52. ARY DIGITAL
 http://62.131.92.221:60530/play/a095
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/geo-tv.png" group-title="Entertainment", 54. GEO TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/geo-tv.png" group-title="Entertainment", 53. GEO TV HD
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/urdu1.png" group-title="Entertainment", 55. URDU 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/urdu1.png" group-title="Entertainment", 54. URDU 1
 http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-channel.png" group-title="Entertainment", 56. STAR CHANNEL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-channel.png" group-title="Entertainment", 55. STAR CHANNEL HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-infinity-hd.png" group-title="Entertainment", 56. COLORS INFINITY HD
+http://103.153.39.36:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-channel.png" group-title="Entertainment", 57. SONY CHANNEL HD
 http://190.83.119.67:8000/play/a0sk/index.m3u8
