@@ -137,7 +137,7 @@ http://103.159.4.38:9191/CH22-INBD1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-tv-hd.png" group-title="Entertainment", 43. ZEE TV HD
 http://103.55.144.46/hls/zeetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-plus.png" group-title="Entertainment", 44. STAR PLUS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-plus-hd.png" group-title="Entertainment", 44. STAR PLUS HD
 http://103.159.4.38:9191/CH29-IN-HIN1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-bharat-hd.png" group-title="Entertainment", 45. STAR BHARAT HD
@@ -255,7 +255,7 @@ http://103.55.144.46/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mn-plus-hd.png" group-title="Movies", 79. MN+ HD
 http://103.55.144.46/hls/mn+.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mnx.png" group-title="Movies", 80. MNX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mnx-hd.png" group-title="Movies", 80. MNX HD
 http://103.55.144.46/hls/mnx-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/celestial-movies.png" group-title="Movies", 81. CELESTIAL MOVIES
@@ -284,7 +284,7 @@ http://103.159.4.38:9191/CH37-IN-HIN9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mtv.png" group-title="Music", 88. MTV
 http://stream.amrbd.com:8082/Mtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mtv-beats.png" group-title="Music", 89. MTV BEATS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mtv-beats-hd.png" group-title="Music", 89. MTV BEATS HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zoom.png" group-title="Music", 90. ZOOM
@@ -369,7 +369,7 @@ http://103.55.144.46/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/fox-life-hd.png" group-title="Infotainment", 115. FOX LIFE HD
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/tlc.png" group-title="Infotainment", 116. TLC HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/tlc-hd.png" group-title="Infotainment", 116. TLC HD
 http://103.55.144.46/hls/tlc.m3u8
 
 
