@@ -335,16 +335,16 @@ http://208.86.19.13:81/602.stream/index.m3u8
 http://208.86.19.13:81/731.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bein-sports-1.png" group-title="Sports", 105. BEIN SPORTS 1
-http://195.154.242.24:8001/play/a00h/index.m3u8
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/bein-sports-1/chunks.m3u8?|Referer=http://otv.ftpbd.net/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bein-sports-2.png" group-title="Sports", 106. BEIN SPORTS 2
-http://195.154.242.24:8001/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bein-sports-1-premium.png" group-title="Sports", 106. BEIN SPORTS 1 PREMIUM
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/bein-sports-2/chunks.m3u8?|Referer=http://otv.ftpbd.net/
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bein-sports-1-premium.png" group-title="Sports", 107. BEIN SPORTS 1 PREMIUM
-http://195.154.242.24:8001/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/abu-dhabi-sports-1.png" group-title="Sports", 107. ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bein-sports-2-premium.png" group-title="Sports", 108. BEIN SPORTS 2 PREMIUM
-http://195.154.242.24:8001/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/dubai-sports.png" group-title="Sports", 108. DUBAI SPORTS
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b200000.m3u8
 
 
 
