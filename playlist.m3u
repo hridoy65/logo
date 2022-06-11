@@ -7,7 +7,7 @@ http://103.106.2.152:13456/btv.m3u8
 http://stream.amrbd.com:8082/ATN-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/channel-i.png" group-title="General", 03. CHANNEL I HD
-http://stream.amrbd.com:8082/Channel-i/index.m3u8
+http://103.55.144.46/hls/channeli.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ekushey-tv.png" group-title="General", 04. EKUSHEY TV
 http://103.159.4.38:9191/CH19-BD8/index.m3u8
@@ -31,7 +31,7 @@ http://208.86.19.13:81/629.stream/index.m3u8
 http://stream.amrbd.com:8082/MyTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/atn-news.png" group-title="News", 11. ATN NEWS
-http://208.86.19.13:81/806.stream/index.m3u8
+http://stream.amrbd.com:8082/Atn-News/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mohona-tv.png" group-title="General", 12. MOHONA TV HD
 http://stream.amrbd.com:8082/MohonaTV/index.m3u8
@@ -46,7 +46,7 @@ http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
 http://stream.amrbd.com:8082/Independent-Tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/maasranga-tv.png" group-title="General", 16. MAASRANGA HD
-http://103.159.4.38:9191/CH20-BD9/index.m3u8
+http://103.55.144.46/hls/masranga.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/channel9.png" group-title="General", 17. CHANNEL 9
 http://208.86.19.13:81/608.stream/index.m3u8
@@ -137,14 +137,14 @@ http://103.159.4.38:9191/CH22-INBD1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-tv-hd.png" group-title="Entertainment", 43. ZEE TV HD
 http://103.55.144.46/hls/zeetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-plus-hd.png" group-title="Entertainment", 44. STAR PLUS HD
-http://103.159.4.38:9191/CH29-IN-HIN1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-plus.png" group-title="Entertainment", 44. STAR PLUS
+http://103.55.144.46/hls/starplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-bharat-hd.png" group-title="Entertainment", 45. STAR BHARAT HD
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+http://103.153.39.36:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-hd.png" group-title="Entertainment", 46. COLORS HD
-http://103.159.4.38:9191/CH35-IN-HIN7/index.m3u8
+http://103.55.144.46/hls/colore-tv-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/set-hd.png" group-title="Entertainment", 47. SONY ENTERTAINMENT HD
 http://103.159.4.38:9191/CH31-IN-HIN3/index.m3u8
@@ -194,10 +194,10 @@ http://14.199.164.20:4001/play/a0rg/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-cinema-hd.png" group-title="Movies", 60. ZEE CINEMA HD
-http://103.159.4.38:9191/CH30-IN-HIN2/index.m3u8
+http://stream.amrbd.com:8082/ZeeCinemaHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-action.png" group-title="Movies", 61. ZEE ACTION
-http://208.115.215.42/ZEE_ActIon_HD/index.m3u8
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-bollywood.png" group-title="Movies", 62. ZEE BOLLYWOOD
 http://208.86.19.13:81/701.stream/index.m3u8
@@ -215,7 +215,7 @@ http://208.86.19.13:81/709.stream/index.m3u8
 http://103.55.144.46/hls/colorscineplex.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-max-hd.png" group-title="Movies", 67. SONY MAX HD 
-http://103.159.4.38:9191/CH32-IN-HIN4/index.m3u8
+http://stream.amrbd.com:8082/Sony-Max/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/and-pictures-hd.png" group-title="Movies", 68. &PICTURES HD
 http://103.55.144.46/hls/andpictures.m3u8
@@ -227,7 +227,7 @@ http://103.55.144.46/hls/utvaction.m3u8
 http://103.55.144.46:80/hls/utv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/b4u-movies.png" group-title="Movies", 71. B4U MOVIES
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/B4UMOVIES/index.m3u8
 
 
 
@@ -297,7 +297,7 @@ http://103.159.4.38:9191/CH36-IN-HIN8/tracks-v1/mono.m3u8
 http://stream.amrbd.com:8082/9X-Jalwa/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/b4u-music.png" group-title="Music", 93. B4U MUSIC
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/B4UMUSIC/index.m3u8
 
 
 
