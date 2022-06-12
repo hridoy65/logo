@@ -7,7 +7,7 @@ http://103.106.2.152:13456/btv.m3u8
 http://stream.amrbd.com:8082/ATN-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/channel-i.png" group-title="General", 03. CHANNEL I HD
-http://103.55.144.46/hls/channeli.m3u8
+http://stream.amrbd.com:8082/Channel-i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ekushey-tv.png" group-title="General", 04. EKUSHEY TV
 http://103.159.4.38:9191/CH19-BD8/index.m3u8
@@ -46,7 +46,7 @@ http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
 http://stream.amrbd.com:8082/Independent-Tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/maasranga-tv.png" group-title="General", 16. MAASRANGA HD
-http://103.55.144.46/hls/masranga.m3u8
+http://103.159.4.38:9191/CH20-BD9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/channel9.png" group-title="General", 17. CHANNEL 9
 http://208.86.19.13:81/608.stream/index.m3u8
@@ -140,135 +140,135 @@ http://103.55.144.46/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-plus.png" group-title="Entertainment", 44. STAR PLUS
 http://103.55.144.46/hls/starplus.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-bharat-hd.png" group-title="Entertainment", 45. STAR BHARAT HD
-http://103.153.39.36:8000/play/a010/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-hd.png" group-title="Entertainment", 46. COLORS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-hd.png" group-title="Entertainment", 45. COLORS HD
 http://103.55.144.46/hls/colore-tv-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/set-hd.png" group-title="Entertainment", 47. SONY ENTERTAINMENT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/set-hd.png" group-title="Entertainment", 46. SONY ENTERTAINMENT HD
 http://103.159.4.38:9191/CH31-IN-HIN3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-sab-hd.png" group-title="Entertainment", 48. SONY SAB HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-sab-hd.png" group-title="Entertainment", 47. SONY SAB HD
 http://stream.amrbd.com:8082/Sony_Sab/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/and-tv-hd.png" group-title="Entertainment", 49. &TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/and-tv-hd.png" group-title="Entertainment", 48. &TV HD
 http://208.86.19.13:81/703.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-hd.png" group-title="Entertainment", 50. UTV HD
-http://208.86.19.13:81/723.stream/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/hum-tv.png" group-title="Entertainment", 51. HUM TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/hum-tv.png" group-title="Entertainment", 49. HUM TV HD
 http://221.120.204.4/HUM-TV-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ary-digital.png" group-title="Entertainment", 52. ARY DIGITAL
-http://62.131.92.221:60530/play/a095
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ary-digital.png" group-title="Entertainment", 50. ARY DIGITAL HD
+http://208.86.19.13:81/821.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/geo-tv.png" group-title="Entertainment", 53. GEO TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/geo-tv.png" group-title="Entertainment", 51. GEO TV HD
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/urdu1.png" group-title="Entertainment", 54. URDU 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/urdu1.png" group-title="Entertainment", 52. URDU 1
 http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-channel.png" group-title="Entertainment", 55. STAR CHANNEL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-channel.png" group-title="Entertainment", 53. STAR CHANNEL HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-infinity-hd.png" group-title="Entertainment", 56. COLORS INFINITY HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-infinity-hd.png" group-title="Entertainment", 54. COLORS INFINITY HD
 http://103.153.39.36:8000/play/a01b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-channel.png" group-title="Entertainment", 57. SONY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-channel.png" group-title="Entertainment", 55. SONY CHANNEL HD
 http://190.83.119.67:8000/play/a0sk/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-cafe-hd.png" group-title="Entertainment", 58. ZEE CAFÉ HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-cafe-hd.png" group-title="Entertainment", 56. ZEE CAFÉ HD
 http://103.153.39.36:8000/play/a00t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/hi-dosti.png" group-title="Entertainment", 59. HI DOST!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/hi-dosti.png" group-title="Entertainment", 57. HI DOST!
 http://14.199.164.20:4001/play/a0rg/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-cinema-hd.png" group-title="Movies", 60. ZEE CINEMA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-cinema-hd.png" group-title="Movies", 58. ZEE CINEMA HD
 http://stream.amrbd.com:8082/ZeeCinemaHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-action.png" group-title="Movies", 61. ZEE ACTION
-http://93.152.174.144:4000/play/zeeaction/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-action.png" group-title="Movies", 59. ZEE ACTION
+http://208.86.19.13:81/728.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-bollywood.png" group-title="Movies", 62. ZEE BOLLYWOOD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-bollywood.png" group-title="Movies", 60. ZEE BOLLYWOOD
 http://208.86.19.13:81/701.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-gold-hd.png" group-title="Movies", 63. STAR GOLD HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-gold-hd.png" group-title="Movies", 61. STAR GOLD HD
 http://103.55.144.46/hls/stargold.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-gold-2.png" group-title="Movies", 64. STAR GOLD 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-gold-2.png" group-title="Movies", 62. STAR GOLD 2
 http://103.55.144.46/hls/stargold2hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-gold-select-hd.png" group-title="Movies", 65. STAR GOLD SELECT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-gold-select-hd.png" group-title="Movies", 63. STAR GOLD SELECT HD
 http://208.86.19.13:81/709.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-cineplex-hd.png" group-title="Movies", 66. COLORS CINEPLEX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-cineplex-hd.png" group-title="Movies", 64. COLORS CINEPLEX HD
 http://103.55.144.46/hls/colorscineplex.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-max-hd.png" group-title="Movies", 67. SONY MAX HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-max-hd.png" group-title="Movies", 65. SONY MAX HD 
 http://stream.amrbd.com:8082/Sony-Max/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/and-pictures-hd.png" group-title="Movies", 68. &PICTURES HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/and-pictures-hd.png" group-title="Movies", 66. &PICTURES HD
 http://103.55.144.46/hls/andpictures.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-action.png" group-title="Movies", 69. UTV ACTION
-http://103.55.144.46/hls/utvaction.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-movies.png" group-title="Movies", 70. UTV MOVIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-movies.png" group-title="Movies", 67. UTV MOVIES
 http://103.55.144.46:80/hls/utv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/b4u-movies.png" group-title="Movies", 71. B4U MOVIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-action.png" group-title="Movies", 68. UTV ACTION
+http://103.55.144.46/hls/utvaction.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/b4u-movies.png" group-title="Movies", 69. B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-movies-hd.png" group-title="Movies", 72. STAR MOVIES HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-movies-hd.png" group-title="Movies", 70. STAR MOVIES HD
 http://103.55.144.46/hls/starmovies.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-movies.png" group-title="Movies", 73. SONY MOVIES HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-movies.png" group-title="Movies", 71. SONY MOVIES HD
 http://190.83.119.67:8000/play/a0qc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-pix-hd.png" group-title="Movies", 74. SONY PIX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-pix-hd.png" group-title="Movies", 72. SONY PIX HD
 http://103.55.144.46/hls/sonypixhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/warner-tv.png" group-title="Movies", 75. WARNER TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-hd.png" group-title="Movies", 73. UTV HD
+http://208.86.19.13:81/723.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/warner-tv.png" group-title="Movies", 74. WARNER TV
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/hbo.png" group-title="Movies", 76. HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/hbo.png" group-title="Movies", 75. HBO
 http://ip2121.com:8081/live/hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/axn.png" group-title="Movies", 77. AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/axn.png" group-title="Movies", 76. AXN
 http://210.210.155.37/dr9445/h/h141/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/movies-now-hd.png" group-title="Movies", 78. MOVIES NOW HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/movies-now-hd.png" group-title="Movies", 77. MOVIES NOW HD
 http://103.55.144.46/hls/movies-now.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mn-plus-hd.png" group-title="Movies", 79. MN+ HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mn-plus-hd.png" group-title="Movies", 78. MN+ HD
 http://103.55.144.46/hls/mn+.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mnx-hd.png" group-title="Movies", 80. MNX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mnx-hd.png" group-title="Movies", 79. MNX HD
 http://103.55.144.46/hls/mnx-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/celestial-movies.png" group-title="Movies", 81. CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/a&e-hd.png" group-title="Movies", 80. A&E HD
+http://190.83.119.67:8000/play/a0q7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/fx-hd.png" group-title="Movies", 81. FX HD
+http://190.83.119.67:8000/play/a0qa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/celestial-movies.png" group-title="Movies", 82. CELESTIAL MOVIES
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/thrill.png" group-title="Movies", 82. THRILL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/thrill.png" group-title="Movies", 83. THRILL
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/kix.png" group-title="Movies", 83. KIX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/kix.png" group-title="Movies", 84. KIX
 http://210.210.155.37/dr9445/h/h07/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/hits.png" group-title="Movies", 84. HITS
-http://210.210.155.37/dr9445/h/h37/index.m3u8
 
 
 
@@ -302,7 +302,7 @@ http://144.217.70.181:9587/hin2/B4UMUSIC/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-sports-1-hd.png" group-title="Sports", 94. STAR SPORTS 1 HD
-http://103.55.144.46/hls/stersports1hd.m3u8
+http://stream.accessnetbd.com/hls/sky7.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-sports-2-hd.png" group-title="Sports", 95. STAR SPORTS 2 HD
 http://103.55.144.46/hls/starsports2.m3u8
