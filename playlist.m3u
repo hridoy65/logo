@@ -42,7 +42,7 @@ http://stream.amrbd.com:8082/BijoyTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/somoy.png" group-title="News", 14. SOMOY TV
 http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/independent-tv.png" group-title="News", 15. INDEPENDENT TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/independent.png" group-title="News", 15. INDEPENDENT
 http://stream.amrbd.com:8082/Independent-Tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/maasranga-tv.png" group-title="General", 16. MAASRANGA HD
@@ -72,7 +72,7 @@ http://103.159.4.38:9191/CH28-INBD7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/jamuna-tv.png" group-title="News", 24. JAMUNA TV
 http://103.159.4.38:9191/CH13-BD2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/deepto-tv-hd.png" group-title="General", 25. DEEPTO TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/deepto-hd.png" group-title="General", 25. DEEPTO HD
 http://stream.amrbd.com:8082/Deepto-Tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/dbc-news.png" group-title="News", 26. DBC NEWS HD
@@ -87,7 +87,7 @@ http://stream.amrbd.com:8082/Bangla-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/duronto-tv.png" group-title="Kids", 29. DURONTO TV 
 http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/nagorik-tv.png" group-title="General", 30. NAGORIK TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/nagorik.png" group-title="General", 30. NAGORIK
 http://stream.amrbd.com:8082/Nagorik-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ananda-tv.png" group-title="General", 31. ANANDA TV
@@ -143,7 +143,7 @@ http://103.55.144.46/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-hd.png" group-title="Entertainment", 45. COLORS HD
 http://103.55.144.46/hls/colore-tv-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/set-hd.png" group-title="Entertainment", 46. SONY ENTERTAINMENT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-entertainment-tv-hd.png" group-title="Entertainment", 46. SONY ENTERTAINMENT HD
 http://103.159.4.38:9191/CH31-IN-HIN3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-sab-hd.png" group-title="Entertainment", 47. SONY SAB HD
@@ -154,13 +154,13 @@ http://208.86.19.13:81/703.stream/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/hum-tv.png" group-title="Entertainment", 49. HUM TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/hum.png" group-title="Entertainment", 49. HUM HD
 http://221.120.204.4/HUM-TV-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ary-digital.png" group-title="Entertainment", 50. ARY DIGITAL HD
 http://208.86.19.13:81/821.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/geo-tv.png" group-title="Entertainment", 51. GEO TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/geo.png" group-title="Entertainment", 51. GEO HD
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/urdu1.png" group-title="Entertainment", 52. URDU 1
@@ -360,7 +360,7 @@ http://103.55.144.46/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/animal-planet-hd.png" group-title="Infotainment", 112. ANIMAL PLANET HD
 http://103.55.144.46/hls/animalplanent.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/travelxp-hd.png" group-title="Infotainment", 113. TRAVEL XP HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/travel-xp-hd.png" group-title="Infotainment", 113. TRAVEL XP HD
 http://103.55.144.46/hls/travelxp.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-bbc-earth-hd.png" group-title="Infotainment", 114. SONY BBC EARTH HD
