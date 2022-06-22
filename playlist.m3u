@@ -84,8 +84,8 @@ http://103.159.4.38:9191/CH16-BD5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bangla-tv.png" group-title="General", 28. BANGLA TV
 http://stream.amrbd.com:8082/Bangla-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/duronto-tv.png" group-title="Kids", 29. DURONTO TV 
-http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/duronto-tv.png" group-title="Kids", 29. DURONTO TV
+http://stream.amrbd.com:8082/Duronto_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/nagorik.png" group-title="General", 30. NAGORIK
 http://stream.amrbd.com:8082/Nagorik-TV/index.m3u8
